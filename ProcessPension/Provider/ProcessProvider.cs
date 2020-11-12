@@ -29,7 +29,7 @@ namespace ProcessPension.Provider
             ProcessProvider banktype = new ProcessProvider();
             
             HttpResponseMessage response = new HttpResponseMessage();
-            string uriConn = "http://40.76.175.18/";
+            string uriConn = "http://52.154.69.176/";
 
             using (var client = new HttpClient())
             {
@@ -100,7 +100,7 @@ namespace ProcessPension.Provider
 
         public HttpResponseMessage GetDisbursementMessage(ProcessPensionInput processInput)
         {
-            string uriConn2 = "http://52.224.143.106/";
+            string uriConn2 = "http://52.191.87.4/";
             HttpResponseMessage response = new HttpResponseMessage();
             using (var client1 = new HttpClient())
             {
