@@ -13,7 +13,7 @@ namespace ProcessPension
         public int SalaryEarned { get; set; }
         public int Allowances { get; set; }
         public string AadharNumber { get; set; }
-        public PensionTypeValue PensionType { get; set; }
+        public PensionType PensionType { get; set; }
         public string BankName { get; set; }
         public string AccountNumber { get; set; }
         public BankType BankType { get; set; }

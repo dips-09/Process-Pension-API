@@ -4,3 +4,12 @@ INFO  10:29:10 Hosting environment: Development
 INFO  10:29:10 Hosting environment: Development
 INFO  10:29:10 Content root path: C:\Users\Ritik\source\repos\ProcessPension
 INFO  10:29:10 Content root path: C:\Users\Ritik\source\repos\ProcessPension
+INFO  08:03:11 Application started. Press Ctrl+C to shut down.
+INFO  08:03:11 Application started. Press Ctrl+C to shut down.
+INFO  08:03:11 Hosting environment: Development
+INFO  08:03:11 Hosting environment: Development
+INFO  08:03:11 Content root path: E:\Cognizant Post Joining\MFPE\ProcessPensionAPI\ProcessPension
+INFO  08:03:11 Content root path: E:\Cognizant Post Joining\MFPE\ProcessPensionAPI\ProcessPension
+INFO  08:05:11 Pensioner details invoked from Client Input
+INFO  08:05:16 Source:[::1] Request: POST https localhost:44394/api/ProcessPension/ProcessPension  {"name":"Shubham","dateOfBirth":"1997-08-18T00:00:00","pan":"BCFPN9890I","aadhaarNumber":"907493726178","pensionType":1} Responded with [200] in 13734ms
+INFO  08:05:16 Source:[::1] Request: POST https localhost:44394/api/ProcessPension/ProcessPension  {"name":"Shubham","dateOfBirth":"1997-08-18T00:00:00","pan":"BCFPN9890I","aadhaarNumber":"907493726178","pensionType":1} Responded with [200] in 13734ms

@@ -120,3 +120,4 @@ E:\Cognizant Post Joining\MFPE\ProcessPensionAPI\ProcessPension\obj\Debug\netcor
 E:\Cognizant Post Joining\MFPE\ProcessPensionAPI\ProcessPension\obj\Debug\netcoreapp3.1\ProcessPension.dll
 E:\Cognizant Post Joining\MFPE\ProcessPensionAPI\ProcessPension\obj\Debug\netcoreapp3.1\ProcessPension.pdb
 E:\Cognizant Post Joining\MFPE\ProcessPensionAPI\ProcessPension\obj\Debug\netcoreapp3.1\ProcessPension.genruntimeconfig.cache
+E:\Cognizant Post Joining\MFPE\ProcessPensionAPI\ProcessPension\bin\Debug\netcoreapp3.1\DockerSampleConfig.yaml

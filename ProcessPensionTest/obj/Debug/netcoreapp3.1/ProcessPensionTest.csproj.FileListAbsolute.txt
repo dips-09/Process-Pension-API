@@ -266,3 +266,4 @@ E:\Cognizant Post Joining\MFPE\ProcessPensionAPI\ProcessPensionTest\obj\Debug\ne
 E:\Cognizant Post Joining\MFPE\ProcessPensionAPI\ProcessPensionTest\obj\Debug\netcoreapp3.1\ProcessPensionTest.dll
 E:\Cognizant Post Joining\MFPE\ProcessPensionAPI\ProcessPensionTest\obj\Debug\netcoreapp3.1\ProcessPensionTest.pdb
 E:\Cognizant Post Joining\MFPE\ProcessPensionAPI\ProcessPensionTest\obj\Debug\netcoreapp3.1\ProcessPensionTest.genruntimeconfig.cache
+E:\Cognizant Post Joining\MFPE\ProcessPensionAPI\ProcessPensionTest\bin\Debug\netcoreapp3.1\DockerSampleConfig.yaml

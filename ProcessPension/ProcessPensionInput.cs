@@ -12,11 +12,7 @@ namespace ProcessPension
         public double PensionAmount { get; set; }
         public int BankCharge { get; set; }
     }
-    public enum PensionType
-    {
-        Self=1,
-        Family=2
-    }
+    
     public class ProcessResponse
     {
         //public int ResponseId { get; set; }
